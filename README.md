@@ -1,5 +1,5 @@
 # TicTacToe Game
-  *Welcome to play a tictactoe game with the computer!*
+  *Welcome to play a tic-tac-toe game with the computer!*
 
   When you run the program and play tic-tac-toe, it's like this：
   ![tictactoeUI](https://github.com/Juliecodestack/Tictactoe/blob/master/tictactoeUI.png)
