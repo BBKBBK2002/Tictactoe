@@ -1,10 +1,10 @@
 # TicTacToe Game
   *Play a tictactoe game with the computer!*
 
-  ![When run the program and play the game,it's like this]( )
+  ![When run the program and play the game,it's like this](https://github.com/Juliecodestack/Tictactoe/blob/master/tictactoeUI.png)
 
 # Usage
-  git clone ......   
+  git clone git@github.com:Juliecodestack/Tictactoe.git   
   cd mytictactoe  
   python tictactoe.py
 
