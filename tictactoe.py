@@ -104,7 +104,7 @@ while True:
                         gamegoing=False
                         break
 
-                #third: find the player's leat-to-win-move and take it
+                #third: find the player's lead-to-win-move and take it
                 for (r,c) in empty_c:
                     if tplus.checkwin(Board,r,c,num_player):
                         Board[r][c]=num_comp
